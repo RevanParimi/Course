@@ -9,3 +9,12 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+
+Revan Datta Parimi
+Exploratory Data Analysis
+
+Univariate Analysis - Data anlysis on one column and deriving reltions in it.
+Bivariate Analysis - Data analysis on two columns - relations, mapping, correlation.
+Multivariate Analysis - Data analysis of multple columns - relations, sub data sets, correlations and research pn many theories inside the data. 
+We use seaborn, pandas, numpy, matplotlib packages for analysis.
+
