@@ -1,4 +1,16 @@
 # Case study on Lending Club
+## Technolgies used:
+  1. numpy
+  2. pandas
+  3. seaborn
+  4. matplotlib.pyplot
+
+## Table of Contents
+  1. Important Factors for accepting an application
+  2. Cleaning the Data Set and Statistics
+  3. Analysis of Fully Paid Applicants
+  4. Analysis for Loan Amount, Grade, Annual Income, Purpose and Interest Rate
+  5. Distribution Plots
 
 The case study is based on factors
   1. Loan Status
